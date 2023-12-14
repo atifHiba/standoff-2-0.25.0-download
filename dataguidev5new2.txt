@@ -31,10 +31,10 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-3328930-1",
-"yandex_inter":"R-M-3328930-3",
-"yandex_native":"R-M-3328930-2",
-"yandex_reward":"R-M-3328930-4",
+"yandex_banner":"R-M-4491569-1",
+"yandex_inter":"R-M-4491569-3",
+"yandex_native":"R-M-4491569-2",
+"yandex_reward":"R-M-4491569-4",
 
 "detail_first_button":"other link to download",
 "detail_second_button":"16MB",
